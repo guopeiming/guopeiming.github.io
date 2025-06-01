@@ -7,13 +7,13 @@ layout: default
 ## 教育经历
 <hr />
 - 2024.03 - 至今, 计算机科学与技术, <a href="https://www.hitsz.edu.cn/index.html" target="_blank">哈尔滨工业大学（深圳）</a>, 导师: <a href="https://zhangmeishan.github.io/chn.html" target="_blank">张梅山</a>、<a href="https://faculty.hitsz.edu.cn/MinZhang" target="_blank">张民</a>.
-- 2020.08 - 2023.10, 软件工程, <a href="https://www.tju.edu.cn/" target="_blank">天津大学</a>, 导师: <a href="https://zhangmeishan.github.io/chn.html" target="_blank">张梅山</a>.
+- 2020.08 - 2023.01, 软件工程, <a href="https://www.tju.edu.cn/" target="_blank">天津大学</a>, 导师: <a href="https://zhangmeishan.github.io/chn.html" target="_blank">张梅山</a>.
 - 2016.08 - 2020.06, 软件工程, <a href="https://www.tju.edu.cn/" target="_blank">天津大学</a>.
 
 ## 研究经历
 <hr />
 * 2024.08 - 2025.08, 研究实习生, <a href="http://www.chinatelecom.com.cn/" target="_blank">中国电信集团人工智能研究院</a>.
-* 2023.10 - 2024.03, 科研助理, <a href="https://westlake.edu.cn/" target="_blank">西湖大学</a>, 导师: <a href="https://frcchang.github.io/" target="_blank">张岳</a>.
+* 2023.01 - 2024.03, 科研助理, <a href="https://westlake.edu.cn/" target="_blank">西湖大学</a>, 导师: <a href="https://frcchang.github.io/" target="_blank">张岳</a>.
 * 2021.10 - 2022.05, 实习生, <a href="https://damo.alibaba.com/?language=zh" target="_blank">阿里巴巴集团达摩院</a>.
 
 ## 论文
