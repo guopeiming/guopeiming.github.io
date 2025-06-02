@@ -2,5 +2,5 @@ title: 郭培溟 Peiming Guo
 # logo: /assets/img/logo.png
 description: Peiming Guo's homepage.
 show_downloads: false
-google_analytics: true
+google_analytics: false
 theme: jekyll-theme-minimal
