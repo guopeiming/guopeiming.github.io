@@ -6,9 +6,9 @@ layout: default
 
 ## 教育经历
 <hr />
-- 2024.03 - 至今, 计算机科学与技术, <a href="https://www.hitsz.edu.cn/index.html" target="_blank">哈尔滨工业大学（深圳）</a>, 导师: <a href="https://zhangmeishan.github.io/chn.html" target="_blank">张梅山</a>、<a href="https://faculty.hitsz.edu.cn/MinZhang" target="_blank">张民</a>.
-- 2020.08 - 2023.01, 软件工程, <a href="https://www.tju.edu.cn/" target="_blank">天津大学</a>, 导师: <a href="https://zhangmeishan.github.io/chn.html" target="_blank">张梅山</a>.
-- 2016.08 - 2020.06, 软件工程, <a href="https://www.tju.edu.cn/" target="_blank">天津大学</a>.
+- 2024.03 - 至今, 博士生, 计算机科学与技术, <a href="https://www.hitsz.edu.cn/index.html" target="_blank">哈尔滨工业大学（深圳）</a>, 导师: <a href="https://zhangmeishan.github.io/chn.html" target="_blank">张梅山</a>、<a href="https://faculty.hitsz.edu.cn/MinZhang" target="_blank">张民</a>.
+- 2020.08 - 2023.01, 硕士, 软件工程, <a href="https://www.tju.edu.cn/" target="_blank">天津大学</a>, 导师: <a href="https://zhangmeishan.github.io/chn.html" target="_blank">张梅山</a>.
+- 2016.08 - 2020.06, 学士, 软件工程, <a href="https://www.tju.edu.cn/" target="_blank">天津大学</a>.
 
 ## 研究经历
 <hr />
