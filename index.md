@@ -21,7 +21,7 @@ layout: default
 1. <a href="https://arxiv.org/abs/2601.22803" target="_blank">CVeDRL: An Efficient Code Verifier via Difficulty-aware Reinforcement Learning</a>.  
   Ji Shi&#42;, **Peiming Guo&#42;**, Meishan Zhang, Miao Zhang, Xuebo Liu, Min Zhang, Weili Guan.  
   Arxiv, 2026.
-2. <a href="https://arxiv.org/abs/2505.20976" target="_blank">Contrastive Learning on LLM Back Generation Treebank for Cross-domain Constituency Parsing</a>.  
+2. <a href="https://aclanthology.org/2025.acl-long.1331" target="_blank">Contrastive Learning on LLM Back Generation Treebank for Cross-domain Constituency Parsing</a>.  
   **Peiming Guo**, Meishan Zhang, Jianling Li, Min Zhang, Yue Zhang.  
   Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025.
 3. <a href="https://arxiv.org/abs/2408.08650" target="_blank">An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation</a>.  
