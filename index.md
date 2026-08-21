@@ -20,7 +20,7 @@ layout: default
 <hr />
 1. <a href="https://arxiv.org/abs/2601.22803" target="_blank">CVeDRL: An Efficient Code Verifier via Difficulty-aware Reinforcement Learning</a>.  
   Ji Shi&#42;, **Peiming Guo&#42;**, Meishan Zhang, Miao Zhang, Xuebo Liu, Min Zhang, Weili Guan.  
-  Arxiv, 2026.
+  Findings of the Association for Computational Linguistics: EMNLP 2026, 2026.
 2. <a href="https://aclanthology.org/2025.acl-long.1331" target="_blank">Contrastive Learning on LLM Back Generation Treebank for Cross-domain Constituency Parsing</a>.  
   **Peiming Guo**, Meishan Zhang, Jianling Li, Min Zhang, Yue Zhang.  
   Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025.
@@ -45,4 +45,4 @@ layout: default
 
 ## 学术活动
 <hr />
-- 审稿：ARR 2024/2025、EMNLP 2024、ACL 2025、ICME 2025.
+- 审稿：ARR 2024-2026、EMNLP 2024-2026、ACL 2025-2026、ICME 2025.
