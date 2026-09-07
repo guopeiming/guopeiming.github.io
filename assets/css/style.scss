@@ -4,18 +4,38 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width:auto;
-  margin:0 auto;
+  width: auto;
+  margin: 0 auto;
 }
 
 header {
-  width:18%;
+  width: 18%;
+  text-align: center;
 }
 
 footer {
-  width:10%;
+  width: 18%;
+  text-align: center;
 }
 
 section {
-  width:80%;
+  width: 78%;
+  padding-left: 2%;
+}
+
+@media screen and (max-width: 960px) {
+  .wrapper {
+    width: auto;
+    margin: 0;
+  }
+
+  header, footer {
+    width: 100%;
+    text-align: center;
+  }
+
+  section {
+    width:100%;
+    padding-left: 0;
+  }
 }
