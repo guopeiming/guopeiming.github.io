@@ -18,28 +18,32 @@ layout: default
 
 ## 论文
 <hr />
-1. <a href="https://arxiv.org/abs/2601.22803" target="_blank">CVeDRL: An Efficient Code Verifier via Difficulty-aware Reinforcement Learning</a>.  
+
+- <a href="" target="_blank">Simple Test-Time Refinement for Plot-to-Code Generation via Visual-Code Diagnostics</a>.  
+  **Peiming Guo**, Jinpeng Huang, Yangbin Sun, GaoXiong Cao, Ensheng Shi, Yuchi Ma, Yu Zhang, Meishan Zhang, Baotian Hu, Min Zhang.  
+  The Fortieth Annual Conference on Neural Information Processing Systems, 2026.
+- <a href="https://arxiv.org/abs/2601.22803" target="_blank">CVeDRL: An Efficient Code Verifier via Difficulty-aware Reinforcement Learning</a>.  
   Ji Shi&#42;, **Peiming Guo&#42;**, Meishan Zhang, Miao Zhang, Xuebo Liu, Min Zhang, Weili Guan.  
   Findings of the Association for Computational Linguistics: EMNLP 2026, 2026.
-2. <a href="https://aclanthology.org/2025.acl-long.1331" target="_blank">Contrastive Learning on LLM Back Generation Treebank for Cross-domain Constituency Parsing</a>.  
+- <a href="https://aclanthology.org/2025.acl-long.1331" target="_blank">Contrastive Learning on LLM Back Generation Treebank for Cross-domain Constituency Parsing</a>.  
   **Peiming Guo**, Meishan Zhang, Jianling Li, Min Zhang, Yue Zhang.  
   Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025.
-3. <a href="https://arxiv.org/abs/2408.08650" target="_blank">An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation</a>.  
+- <a href="https://arxiv.org/abs/2408.08650" target="_blank">An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation</a>.  
   **Peiming Guo**, Sinuo Liu, Yanzhao Zhang, Dingkun Long, Pengju Xie, Meishan Zhang, Min Zhang.  
   IEEE International Conference on Multimedia & Expo, 2025.
-4. <a href="https://ieeexplore.ieee.org/abstract/document/10888121" target="_blank">Complex Open Information Extraction with Heterogeneous Syntax Forests</a>.  
+- <a href="https://ieeexplore.ieee.org/abstract/document/10888121" target="_blank">Complex Open Information Extraction with Heterogeneous Syntax Forests</a>.  
   Meishan Zhang, **Peiming Guo**, Hao Fei, Min Zhang.  
   Proceedings of the 2025 IEEE International Conference on Acoustics, Speech and Signal Processing, 2025.
-5. <a href="https://www.jair.org/index.php/jair/article/view/15736" target="_blank">Cross-domain Constituency Parsing by Leveraging Heterogeneous Data</a>.  
+- <a href="https://www.jair.org/index.php/jair/article/view/15736" target="_blank">Cross-domain Constituency Parsing by Leveraging Heterogeneous Data</a>.  
   **Peiming Guo**, Meishan Zhang, Yulong Chen, Jianling Li, Min Zhang, Yue Zhang.  
   Journal of Artificial Intelligence Research, 2025.
-6. <a href="https://aclanthology.org/2023.emnlp-main.508/" target="_blank">LLM-enhanced Self-training for Cross-domain Constituency Parsing</a>.  
+- <a href="https://aclanthology.org/2023.emnlp-main.508/" target="_blank">LLM-enhanced Self-training for Cross-domain Constituency Parsing</a>.  
   Jianling Li, Meishan Zhang, **Peiming Guo**, Min Zhang, Yue Zhang.  
   Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, 2023.
-7. <a href="https://dl.acm.org/doi/abs/10.1145/3629519" target="_blank">Fine-Grained Domain Adaptation for Chinese Syntactic Processing</a>.  
+- <a href="https://dl.acm.org/doi/abs/10.1145/3629519" target="_blank">Fine-Grained Domain Adaptation for Chinese Syntactic Processing</a>.  
   Meishan Zhang, **Peiming Guo**, Peijie Jiang, Dingkun Long, Yueheng Sun, Guangwei Xu, Pengjun Xie, Min Zhang.  
   Transactions on Asian and Low-Resource Language Information Processing, 2023.
-8. <a href="https://ieeexplore.ieee.org/abstract/document/9961955" target="_blank">Curriculum-Style Fine-Grained Adaption for Unsupervised Cross-Lingual Dependency Transfer</a>.  
+- <a href="https://ieeexplore.ieee.org/abstract/document/9961955" target="_blank">Curriculum-Style Fine-Grained Adaption for Unsupervised Cross-Lingual Dependency Transfer</a>.  
   **Peiming Guo**, Shen Huang, Peijie Jiang, Yueheng Sun, Meishan Zhang, Min Zhang.  
   IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
 
