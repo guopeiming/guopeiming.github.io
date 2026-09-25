@@ -12,6 +12,9 @@ layout: default
 
 ## 研究经历
 <hr />
+
+* 2026.09, 研究实习生, <a href="http://www.chinatelecom.com.cn/" target="_blank">中国电信集团人工智能研究院</a>.
+* 2026.07 - 2026.09, 研究实习生, <a href="https://www.huawei.com/cn/" target="_blank">华为</a>.
 * 2024.08 - 2025.08, 研究实习生, <a href="http://www.chinatelecom.com.cn/" target="_blank">中国电信集团人工智能研究院</a>.
 * 2023.01 - 2024.03, 科研助理, <a href="https://westlake.edu.cn/" target="_blank">西湖大学</a>, 导师: <a href="https://frcchang.github.io/" target="_blank">张岳</a>.
 * 2021.10 - 2022.05, 实习生, <a href="https://damo.alibaba.com/?language=zh" target="_blank">阿里巴巴集团达摩院</a>.
